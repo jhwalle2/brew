@@ -1,156 +1,876 @@
-::: {.recipe}
-::: {.general}
-::: {#headerdiv}
-  -------- -----------------------------------
-  Style:   English Barleywine () - All Grain
-  Date:    
-  -------- -----------------------------------
 
-  : Christmas Wine
-:::
 
-::: {.batch}
-  ------------ ---------------- ----------- -----------
-  Batch Size   1.849 gal        Boil Size   2.219 gal
-  Color        57 SRM (Morey)   Boil Time   120 min
-  ABV          10.1%            SG          1.084
-  IBU          39.0 (Tinseth)   OG          1.101
-  IBU/SG       0.39             FG          1.023
-  ------------ ---------------- ----------- -----------
+<div class="recipe">
 
-  : Batch Description
-:::
+<div class="general">
 
-::: {.batch}
-  Original Gravity: 1.101 (0.000 - 0.000)
-  -------------------------------------------------------------------------------------------------
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Finishing Gravity: 1.023 (0.000 - 0.000)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Color: 57 SRM (0 SRM - 0 SRM)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Alcohol: 10.1% (0.0% - 0.0%)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Bitterness: 39.0 (0.0 - 0.0)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
+<div id="headerdiv">
+### Christmas Wine
+<table id="header"><caption>Christmas Wine</caption>
 
-  : Style Comparison
-:::
-:::
+<tbody>
 
-### Fermentables
+<tr>
 
-  \%      Name                    Type    Amount      Mashed   Yield   Color
-  ------- ----------------------- ------- ----------- -------- ------- ---------
-  85.4%   Maris Otter Pale        Grain   6 lb 1 oz   Yes      83%     4 SRM
-  5.7%    Finland - Black Malt    Grain   7.055 oz    Yes      65%     712 SRM
-  4.0%    Caramel / Crystal 60L   Grain   4.938 oz    Yes      74%     60 SRM
-  4.0%    German - CaraMunich I   Grain   4.938 oz    Yes      74%     39 SRM
-  0.9%    Belgian - Biscuit       Grain   1.093 oz    Yes      76%     23 SRM
+<td class="label">Style:</td>
 
-  : Total grain: 7 lb 12 oz / Color: 57 SRM (Morey)
+<td class="value">English Barleywine () - All Grain</td>
 
-### Hops
+</tr>
 
-  Name                 Alpha   Amount     Use    Time     Form     IBU
-  -------------------- ------- ---------- ------ -------- -------- ------
-  Challenger           8.9%    0.336 oz   Boil   40 min   Pellet   18.0
-  Fuggles              4.5%    0.672 oz   Boil   20 min   Pellet   12.6
-  East Kent Goldings   5.0%    0.672 oz   Boil   10 min   Pellet   8.4
+<tr>
 
-  : Total hops: 1.681 oz / 39.0 IBU (Tinseth)
+<td class="label">Date:</td>
 
-### Yeast
+<td class="value"></td>
 
-  Name                   Source   Type   Form   Flocc.   Att.   Amount   Stage
-  ---------------------- -------- ------ ------ -------- ------ -------- -----------
-  Nottingham Ale Yeast                                   77%    0 oz     Secondary
+</tr>
 
-### Mash
+</tbody>
 
-  Name                    Type       Amount   Temp   Target Temp   Time
-  ----------------------- ---------- -------- ------ ------------- --------
-  Saccharification Rest   Infusion   0 tsp    32 F   154 F         60 min
+</table>
 
-  : Sparge with 3.156 gal water at 32 F.
-:::
+</div>
 
-::: {.recipe}
-::: {.general}
-::: {#headerdiv}
-  -------- ----------------------------------
-  Style:   American Pale Ale () - All Grain
-  Date:    
-  -------- ----------------------------------
+<div class="batch">
 
-  : Napa
-:::
+<table id="title"><caption>Batch Description</caption>
 
-::: {.batch}
-  ------------ ---------------- ----------- -----------
-  Batch Size   1.849 gal        Boil Size   2.034 gal
-  Color        6 SRM (Morey)    Boil Time   60 min
-  ABV          6.4%             SG          1.057
-  IBU          28.1 (Tinseth)   OG          1.063
-  IBU/SG       0.45             FG          1.014
-  ------------ ---------------- ----------- -----------
+<tbody>
 
-  : Batch Description
-:::
+<tr>
 
-::: {.batch}
-  Original Gravity: 1.063 (0.000 - 0.000)
-  -------------------------------------------------------------------------------------------------
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Finishing Gravity: 1.014 (0.000 - 0.000)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Color: 6 SRM (0 SRM - 0 SRM)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Alcohol: 6.4% (0.0% - 0.0%)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
-  Bitterness: 28.1 (0.0 - 0.0)
-  \|\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\--\*\|
+<td class="left">Batch Size</td>
 
-  : Style Comparison
-:::
-:::
+<td class="valuel">7 L</td>
 
-### Fermentables
+<td class="right">Boil Size</td>
 
-  \%      Name                      Type    Amount      Mashed   Yield   Color
-  ------- ------------------------- ------- ----------- -------- ------- --------
-  93.3%   Finland - Pale Ale Malt   Grain   4 lb 5 oz   Yes      78%     2 SRM
-  6.7%    Belgian - Biscuit         Grain   4.938 oz    Yes      76%     23 SRM
+<td class="valuer">8.4 L</td>
 
-  : Total grain: 4 lb 1 oz / Color: 6 SRM (Morey)
+</tr>
 
-### Hops
+<tr>
 
-  Name      Alpha   Amount     Use    Time     Form   IBU
-  --------- ------- ---------- ------ -------- ------ ------
-  Chinook   13.0%   0.176 oz   Boil   60 min   Leaf   20.1
-  Chinook   13.0%   0.353 oz   Boil   5 min    Leaf   8.0
+<td class="left">Color</td>
 
-  : Total hops: 0.529 oz / 28.1 IBU (Tinseth)
+<td class="valuel">57 SRM (Morey)</td>
 
-### Additions to Boil
+<td class="right">Boil Time</td>
 
-  Name             Amount     Time
-  ---------------- ---------- -------
-  Coriander Seed   0.071 oz   2 min
-  Hojicha          0.353 oz   2 min
+<td class="valuer">120 min</td>
 
-### Yeast
+</tr>
 
-  Name                  Source   Type   Form   Flocc.   Att.   Amount   Stage
-  --------------------- -------- ------ ------ -------- ------ -------- -----------
-  US West Coast Yeast                                   78%    0 oz     Secondary
+<tr>
 
-### Mash
+<td class="left">ABV</td>
 
-  Name                    Type       Amount   Temp   Target Temp   Time
-  ----------------------- ---------- -------- ------ ------------- --------
-  Saccharification Rest   Infusion   0 tsp    32 F   150 F         60 min
+<td class="valuel">10.1%</td>
 
-  : Sparge with 2.594 gal water at 32 F.
-:::
+<td class="right">SG</td>
+
+<td class="valuer">1.084</td>
+
+</tr>
+
+<tr>
+
+<td class="left">IBU</td>
+
+<td class="valuel">39.0 (Tinseth)</td>
+
+<td class="right">OG</td>
+
+<td class="valuer">1.101</td>
+
+</tr>
+
+<tr>
+
+<td class="left">IBU/SG</td>
+
+<td class="valuel">0.39</td>
+
+<td class="right">FG</td>
+
+<td class="valuer">1.023</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="batch">
+
+<table id="stylecmp"><caption>Style Comparison</caption>
+
+<tbody>
+
+<tr>
+
+<th>Original Gravity: 1.101 (0.000 - 0.000)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Finishing Gravity: 1.023 (0.000 - 0.000)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Color: 57 SRM (0 SRM - 0 SRM)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Alcohol: 10.1% (0.0% - 0.0%)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Bitterness: 39.0 (0.0 - 0.0)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+<table id="fermentables"><caption>Total grain: 3 kg 511 g / Color: 57 SRM (Morey)</caption>
+
+<tbody>
+
+<tr>
+
+<th>%</th>
+
+<th>Name</th>
+
+<th>Type</th>
+
+<th>Amount</th>
+
+<th>Mashed</th>
+
+<th>Yield</th>
+
+<th>Color</th>
+
+</tr>
+
+<tr>
+
+<td>85.4%</td>
+
+<td>Maris Otter Pale</td>
+
+<td>Grain</td>
+
+<td>3 kg</td>
+
+<td>Yes</td>
+
+<td>83%</td>
+
+<td>4 SRM</td>
+
+</tr>
+
+<tr>
+
+<td>5.7%</td>
+
+<td>Finland - Black Malt</td>
+
+<td>Grain</td>
+
+<td>0.2 kg</td>
+
+<td>Yes</td>
+
+<td>65%</td>
+
+<td>712 SRM</td>
+
+</tr>
+
+<tr>
+
+<td>4.0%</td>
+
+<td>Caramel / Crystal 60L</td>
+
+<td>Grain</td>
+
+<td>0.14 kg</td>
+
+<td>Yes</td>
+
+<td>74%</td>
+
+<td>60 SRM</td>
+
+</tr>
+
+<tr>
+
+<td>4.0%</td>
+
+<td>German - CaraMunich I</td>
+
+<td>Grain</td>
+
+<td>0.14 kg</td>
+
+<td>Yes</td>
+
+<td>74%</td>
+
+<td>39 SRM</td>
+
+</tr>
+
+<tr>
+
+<td>0.9%</td>
+
+<td>Belgian - Biscuit</td>
+
+<td>Grain</td>
+
+<td>0.031 kg</td>
+
+<td>Yes</td>
+
+<td>76%</td>
+
+<td>23 SRM</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table id="hops"><caption>Total hops: 0.048 kg / 39.0 IBU (Tinseth)</caption>
+
+<tbody>
+
+<tr>
+
+<th>Name</th>
+
+<th>Alpha</th>
+
+<th>Amount</th>
+
+<th>Use</th>
+
+<th>Time</th>
+
+<th>Form</th>
+
+<th>IBU</th>
+
+</tr>
+
+<tr>
+
+<td>Challenger</td>
+
+<td>8.9%</td>
+
+<td>0.01 kg</td>
+
+<td>Boil</td>
+
+<td>40 min</td>
+
+<td>Pellet</td>
+
+<td>18.0</td>
+
+</tr>
+
+<tr>
+
+<td>Fuggles</td>
+
+<td>4.5%</td>
+
+<td>0.019 kg</td>
+
+<td>Boil</td>
+
+<td>20 min</td>
+
+<td>Pellet</td>
+
+<td>12.6</td>
+
+</tr>
+
+<tr>
+
+<td>East Kent Goldings</td>
+
+<td>5.0%</td>
+
+<td>0.019 kg</td>
+
+<td>Boil</td>
+
+<td>10 min</td>
+
+<td>Pellet</td>
+
+<td>8.4</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table id="yeast">
+
+<tbody>
+
+<tr>
+
+<th>Name</th>
+
+<th>Source</th>
+
+<th>Type</th>
+
+<th>Form</th>
+
+<th>Flocc.</th>
+
+<th>Att.</th>
+
+<th>Amount</th>
+
+<th>Stage</th>
+
+</tr>
+
+<tr>
+
+<td>Nottingham Ale Yeast</td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td>77%</td>
+
+<td>0 kg</td>
+
+<td>Secondary</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table id="mash"><caption>Sparge with 11.946 L water at 0 C.</caption>
+
+<tbody>
+
+<tr>
+
+<th>Name</th>
+
+<th>Type</th>
+
+<th>Amount</th>
+
+<th>Temp</th>
+
+<th>Target Temp</th>
+
+<th>Time</th>
+
+</tr>
+
+<tr>
+
+<td>Saccharification Rest</td>
+
+<td>Infusion</td>
+
+<td>0 mL</td>
+
+<td>0 F</td>
+
+<td>68 F</td>
+
+<td>60 min</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+
+<div class="recipe">
+
+<div class="general">
+
+<div id="headerdiv">
+### Takatalvi
+<table id="header"><caption>Takatalvi</caption>
+
+<tbody>
+
+<tr>
+
+<td class="label">Style:</td>
+
+<td class="value">American IPA () - All Grain</td>
+
+</tr>
+
+<tr>
+
+<td class="label">Date:</td>
+
+<td class="value"></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="batch">
+
+<table id="title"><caption>Batch Description</caption>
+
+<tbody>
+
+<tr>
+
+<td class="left">Batch Size</td>
+
+<td class="valuel">7 L</td>
+
+<td class="right">Boil Size</td>
+
+<td class="valuer">8.05 L</td>
+
+</tr>
+
+<tr>
+
+<td class="left">Color</td>
+
+<td class="valuel">5 SRM (Morey)</td>
+
+<td class="right">Boil Time</td>
+
+<td class="valuer">90 min</td>
+
+</tr>
+
+<tr>
+
+<td class="left">ABV</td>
+
+<td class="valuel">8.4%</td>
+
+<td class="right">SG</td>
+
+<td class="valuer">1.069</td>
+
+</tr>
+
+<tr>
+
+<td class="left">IBU</td>
+
+<td class="valuel">47.4 (Tinseth)</td>
+
+<td class="right">OG</td>
+
+<td class="valuer">1.079</td>
+
+</tr>
+
+<tr>
+
+<td class="left">IBU/SG</td>
+
+<td class="valuel">0.60</td>
+
+<td class="right">FG</td>
+
+<td class="valuer">1.015</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="batch">
+
+<table id="stylecmp"><caption>Style Comparison</caption>
+
+<tbody>
+
+<tr>
+
+<th>Original Gravity: 1.079 (0.000 - 0.000)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Finishing Gravity: 1.015 (0.000 - 0.000)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Color: 5 SRM (0 SRM - 0 SRM)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Alcohol: 8.4% (0.0% - 0.0%)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+<tr>
+
+<th>Bitterness: 47.4 (0.0 - 0.0)</th>
+
+</tr>
+
+<tr>
+
+<td>|----------|-------------------------|---------<font color="red">*</font>|</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+<table id="fermentables"><caption>Total grain: 2 kg 455 g / Color: 5 SRM (Morey)</caption>
+
+<tbody>
+
+<tr>
+
+<th>%</th>
+
+<th>Name</th>
+
+<th>Type</th>
+
+<th>Amount</th>
+
+<th>Mashed</th>
+
+<th>Yield</th>
+
+<th>Color</th>
+
+</tr>
+
+<tr>
+
+<td>95.9%</td>
+
+<td>Finland - Pale Ale Malt</td>
+
+<td>Grain</td>
+
+<td>2 kg 355 g</td>
+
+<td>Yes</td>
+
+<td>78%</td>
+
+<td>2 SRM</td>
+
+</tr>
+
+<tr>
+
+<td>4.1%</td>
+
+<td>Finland - Cara Pale</td>
+
+<td>Grain</td>
+
+<td>0.1 kg</td>
+
+<td>Yes</td>
+
+<td>76%</td>
+
+<td>4 SRM</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table id="hops"><caption>Total hops: 0.04 kg / 47.4 IBU (Tinseth)</caption>
+
+<tbody>
+
+<tr>
+
+<th>Name</th>
+
+<th>Alpha</th>
+
+<th>Amount</th>
+
+<th>Use</th>
+
+<th>Time</th>
+
+<th>Form</th>
+
+<th>IBU</th>
+
+</tr>
+
+<tr>
+
+<td>Challenger</td>
+
+<td>8.5%</td>
+
+<td>0.015 kg</td>
+
+<td>Boil</td>
+
+<td>90 min</td>
+
+<td>Pellet</td>
+
+<td>38.0</td>
+
+</tr>
+
+<tr>
+
+<td>Fuggles</td>
+
+<td>4.5%</td>
+
+<td>0.015 kg</td>
+
+<td>Boil</td>
+
+<td>15 min</td>
+
+<td>Pellet</td>
+
+<td>9.4</td>
+
+</tr>
+
+<tr>
+
+<td>Fuggles</td>
+
+<td>4.5%</td>
+
+<td>0.01 kg</td>
+
+<td>Dry Hop</td>
+
+<td>0 min</td>
+
+<td>Pellet</td>
+
+<td>0.0</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table id="yeast">
+
+<tbody>
+
+<tr>
+
+<th>Name</th>
+
+<th>Source</th>
+
+<th>Type</th>
+
+<th>Form</th>
+
+<th>Flocc.</th>
+
+<th>Att.</th>
+
+<th>Amount</th>
+
+<th>Stage</th>
+
+</tr>
+
+<tr>
+
+<td>Safale - American Ale Yeast US-05</td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td>81%</td>
+
+<td>0 kg</td>
+
+<td>Secondary</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table id="mash"><caption>Sparge with 10.53 L water at 0 C.</caption>
+
+<tbody>
+
+<tr>
+
+<th>Name</th>
+
+<th>Type</th>
+
+<th>Amount</th>
+
+<th>Temp</th>
+
+<th>Target Temp</th>
+
+<th>Time</th>
+
+</tr>
+
+<tr>
+
+<td>Saccharification Rest</td>
+
+<td>Infusion</td>
+
+<td>0 mL</td>
+
+<td>0 F</td>
+
+<td>66 F</td>
+
+<td>60 min</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
