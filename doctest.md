@@ -6,7 +6,7 @@
 
 <div id="headerdiv">
 
-<table id="header"><caption>## Christmas Wine</caption>
+<table id="header"><caption>### Christmas Wine</caption>
 
 <tbody>
 
@@ -471,7 +471,7 @@
 
 <div id="headerdiv">
 
-<table id="header"><caption>## Takatalvi</caption>
+<table id="header"><caption>### Takatalvi</caption>
 
 <tbody>
 
