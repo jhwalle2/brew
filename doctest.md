@@ -1,4 +1,5 @@
-
+Christmas Wine
+==============
 
 <div class="recipe">
 
@@ -6,7 +7,7 @@
 
 <div id="headerdiv">
 
-<table id="header"><caption>### Christmas Wine</caption>
+
 
 <tbody>
 
@@ -464,6 +465,8 @@
 
 </div>
 
+Takatalvi
+=========
 
 <div class="recipe">
 
@@ -471,7 +474,7 @@
 
 <div id="headerdiv">
 
-<table id="header"><caption>### Takatalvi</caption>
+
 
 <tbody>
 
